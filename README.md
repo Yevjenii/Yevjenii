@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  <p>My Projects:</p>
 
-<p style="padding-left: 50px"><a href="https://yevjenii.github.io/PulseLand/dist/">Pulse - heart rate monitors site</a></p>
+<p><a href="https://yevjenii.github.io/PulseLand/dist/">Pulse - heart rate monitors site</a></p>
 <p><a href="https://yevjenii.github.io/China_delivery_website/dist/">China Delivery website</a></p>
 <p><a href="https://yevjenii.github.io/Uber_partners/src/">UberPartners - taxi website</a></p>
 <p><a href="https://yevjenii.github.io/Guess-Number-Game/">Guess Number game</a></p>
